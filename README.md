@@ -1,7 +1,7 @@
 # Installation steps:
 
 >1. Download and install [MicroG/GmsCore](https://github.com/microg/GmsCore).
->2. Install the latest release of Google Photos Revanced.
+>2. Download and Install the latest [release](https://github.com/yeahalma/googlephotos-revanced/releases) of Google Photos Revanced.
 >3. Open the Google Photos Revanced App.
 >4. Log Into Gms Core with your Google Account.
 >5. Allow Google Photos to access your media.
