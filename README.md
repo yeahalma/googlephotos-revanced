@@ -1,6 +1,6 @@
 Installation steps:
 
->1. Download and log in to [MicroG/GmsCore](https://github.com/microg/GmsCore).
+>1. Download and install [MicroG/GmsCore](https://github.com/microg/GmsCore).
 >2. Install the latest version of Build APK.
 >3. Open the Google Photos Revanced App.
 >4. Log Into Gms Core with your Google Account.
@@ -15,3 +15,8 @@ Patches:
 Disclaimer:
 
 This patch modifies the original APK, and may violate the app provider's terms of service. Use at your own risk.
+
+
+Shoutout To:\
+[ReVanced](https://revanced.app)
+
