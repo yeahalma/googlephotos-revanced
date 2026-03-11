@@ -1,18 +1,17 @@
-Installation
+Installation steps:
 
-    Download and log in to GmsCore.
-    Install the latest version of Build APK.
-    Open the Google Photos Revanced App.
-    Log Into Gms Core with your Google Account.
-    Allow Google Photos to access your media.
+>1. Download and log in to [MicroG/GmsCore](https://github.com/microg/GmsCore).
+>2. Install the latest version of Build APK.
+>3. Open the Google Photos Revanced App.
+>4. Log Into Gms Core with your Google Account.
+>5. Allow Google Photos to access your media.
+>6. (Recommended to use Obtainium to download and install build updates.)
 
-    Recommended to use Obtainium to download and install build updates.
+Patches:
 
-Patches
+>Spoofs the device to enable Google Pixel XL exclusive features, including unlimited storage.\
+>GMS Core Support.
 
-    Spoofs the device to enable Google Pixel XL exclusive features, including unlimited storage.
-    GMS Core Support.
-
-Disclaimer
+Disclaimer:
 
 This patch modifies the original APK, and may violate the app provider's terms of service. Use at your own risk.
