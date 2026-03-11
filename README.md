@@ -5,7 +5,7 @@
 >3. Open the Google Photos Revanced App.
 >4. Log Into Gms Core with your Google Account.
 >5. Allow Google Photos to access your media.
->6. (Recommended to use Obtainium to download and install build updates.)
+>6. (Recommended to use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.)
 
 # Patches:
 
