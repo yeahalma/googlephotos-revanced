@@ -10,7 +10,6 @@
 # Patches:
 
 >Spoofs the device to enable Google Pixel XL exclusive features, including unlimited storage.\
->GMS Core Support.
 
 # Disclaimer:
 
